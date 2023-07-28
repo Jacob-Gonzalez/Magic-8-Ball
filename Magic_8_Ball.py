@@ -1,4 +1,7 @@
-# Create a program that can answer any yes or no questions that produces random answers just like a magic 8 ball
+# Project Name:  Magic-8-Ball
+# Discription:   Build a program that will ask for a users name followed by a yes or no question.  This will simulate a magic 8 ball by producing random answers.
+#                Project was provided by Codecademy to test knowledge on basic fundamentals of conditional statements.
+# Author:        Jacob Gonzalez (28 July 2023)  
 import random
 
 # specify name and question you want the 8 ball to answer, answer choices will be randomized in a later statement
